@@ -2,8 +2,7 @@
 
 　C# MONO Eto.Forms で Markdown パーサ Markdig の拡張 Markdig.SyntaxHighlighting を使ってみた。
 
-![0](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181205/20181205111024.png)
-![1](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181205/20181205111448.png)
+![0](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181205/20181205134228.png)
 
 # 開発環境
 
